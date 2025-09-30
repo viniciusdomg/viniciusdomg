@@ -1,5 +1,9 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&weight=600&size=34&pause=1000&color=800080&center=true&width=436&height=53&lines=SEJA+BEM+VINDO!!)](https://git.io/typing-svg)<br>
-Olá, pessoal! 😊 Meu nome é Vinicius de Oliveira, e sou estudante do curso de **Análise e Desenvolvimento de Sistemas** na **Universidade Federal do Rio Grande do Norte (UFRN)**. Estou apaixonado pela área de tecnologia e programação, e estou sempre em busca de aprender e aprimorar minhas habilidades.
+Olá! 👋 Sou Vinicius de Oliveira, Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas na UFRN.
+
+Tenho foco no desenvolvimento de aplicações backend com Java/Spring e Python/Django, e estou constantemente aprimorando minhas habilidades em frontend com tecnologias como React e Vue.js.
+
+Atualmente, estou buscando por oportunidades de estágio ou posições júnior para aplicar meus conhecimentos na criação de soluções robustas e escaláveis.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-de-oliveira-moreira-gomes-a23614280/)
