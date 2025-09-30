@@ -20,5 +20,19 @@ Atualmente, estou buscando por oportunidades de estágio ou posições júnior p
 </p>
 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdomg&layout=compact&bg_color=000&border_color=800080&hide_title=true&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusdomg&theme=transparent&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&hide_title=true&text_color=FFF)
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdomg&layout=compact&bg_color=000&border_color=800080&hide_title=true&text_color=FFF" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=viniciusdomg&theme=transparent&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&hide_title=true&text_color=FFF" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
