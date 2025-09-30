@@ -13,64 +13,11 @@ Atualmente, estou buscando por oportunidades de estágio ou posições júnior p
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-backend">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#-backend">
-        <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <a href="#-backend">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-     <td align="center" width="96">
-      <a href="#-backend">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#-frontend">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#-frontend">
-        <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#-databases">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#-databases">
-        <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>PostgreSQL
-    </td>
-     <td align="center" width="96">
-      <a href="#-tools">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,vue,mysql,postgres,git" />
+  </a>
+</p>
 
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdomg&layout=compact&bg_color=000&border_color=800080&hide_title=true&text_color=FFF)
