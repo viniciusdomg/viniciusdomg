@@ -21,7 +21,7 @@ Atualmente, estou buscando por oportunidades de estágio ou posições júnior p
 
 ## 
 <p align="center">
-  <table>
+  <table border="0" cellspacing="20" cellpadding="0">
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
